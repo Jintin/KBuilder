@@ -1,6 +1,6 @@
 # KBuilder
 
-[![Build Status](https://travis-ci.org/Jintin/KBuilder.svg?branch=master)](https://travis-ci.org/Jintin/KBuilder)
+[![CircleCI](https://circleci.com/gh/Jintin/KBuilder.svg?style=shield)](https://app.circleci.com/pipelines/github/Jintin/KBuilder)
 
 KBuilder is a library to generate Builder pattern automatically vis ksp(Kotlin Symbol Processing)
 
