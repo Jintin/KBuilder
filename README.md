@@ -2,7 +2,7 @@
 
 [![CircleCI](https://circleci.com/gh/Jintin/KBuilder.svg?style=shield)](https://app.circleci.com/pipelines/github/Jintin/KBuilder)
 
-KBuilder is a library to generate Builder pattern automatically vis ksp(Kotlin Symbol Processing)
+KBuilder is a library to generate Builder pattern automatically via ksp(Kotlin Symbol Processing)
 
 ## Usage
 
